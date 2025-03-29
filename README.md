@@ -1,9 +1,7 @@
 # Aplicație Client HTTP pentru UtmShop
 
 ## Descriere
-Această aplicație implementează un client HTTP care interacționează cu API-ul magazinului online UtmShop. Proiectul face parte din laboratorul nr. 4 și permite gestionarea categoriilor și produselor prin intermediul unei interfețe în linia de comandă.
-
-## Configurare mediu
+Această aplicație implementează un client HTTP care interacționează cu API-ul magazinului online UtmShop. 
 
 ### Componente server
 Instalam .NET SDK și runtime:
